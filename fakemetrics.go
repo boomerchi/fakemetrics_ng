@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/OOM-Killer/fakemetrics_ng/agents"
+	"github.com/raintank/fakemetrics_ng/agents"
 )
 
 var (

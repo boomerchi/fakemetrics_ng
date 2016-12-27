@@ -6,10 +6,10 @@ import (
 
 	gc "github.com/rakyll/globalconf"
 
-	"github.com/OOM-Killer/fakemetrics_ng/agents"
-	"github.com/OOM-Killer/fakemetrics_ng/datagen"
-	"github.com/OOM-Killer/fakemetrics_ng/out"
-	"github.com/OOM-Killer/fakemetrics_ng/timer"
+	"github.com/raintank/fakemetrics_ng/agents"
+	"github.com/raintank/fakemetrics_ng/datagen"
+	"github.com/raintank/fakemetrics_ng/out"
+	"github.com/raintank/fakemetrics_ng/timer"
 )
 
 type stringListFlags []string
